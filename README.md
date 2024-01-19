@@ -1,2 +1,2 @@
-# 30daysofpythonvhallenge
+# 30daysofpythonchallenge
 learning python from scratch
